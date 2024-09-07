@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: gray;
+}
+
+.div-bg {
+    background: url("./Project-Files/destinations-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
